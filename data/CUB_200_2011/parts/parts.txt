@@ -14,16 +14,6 @@ right wing
 tail
 throat
 background
-up-curved bill
-down-curved bill
-dagger-shaped bill
-hooked bill
-needle-like bill
-hooked seabird bill
-spatulate bill
-all-purpose bill
-cone-shaped bill
-specialized bill
 blue wings
 brown wings
 iridescent wings
@@ -69,10 +59,9 @@ black underparts
 white underparts
 red underparts
 buff underparts
-solid breast pattern
-spotted breast pattern
-striped breast pattern
-multi-colored breast pattern
+spotted breast
+striped breast
+multi-colored breast
 blue back
 brown back
 iridescent back
@@ -109,17 +98,17 @@ black upper tail
 white upper tail
 red upper tail
 buff upper tail
-spotted head pattern
-malar head pattern
-crested head pattern
-masked head pattern
-unique head pattern
-eyebrow head pattern
-eye-ring head pattern
-plain head pattern
-eyeline head pattern
-striped head pattern
-capped head pattern
+spotted head
+malar head
+crested head
+masked head
+unique head
+eyebrow head
+eye-ring head
+plain head
+eyeline head
+striped head
+capped head
 blue breast
 brown breast
 iridescent breast
@@ -137,195 +126,3 @@ red breast
 buff breast
 blue throat
 brown throat
-iridescent throat
-purple throat
-rufous throat
-grey throat
-yellow throat
-olive throat
-green throat
-pink throat
-orange throat
-black throat
-white throat
-red throat
-buff throat
-blue eyes
-brown eyes
-purple eyes
-rufous eyes
-grey eyes
-yellow eyes
-olive eyes
-green eyes
-pink eyes
-orange eyes
-black eyes
-white eyes
-red eyes
-buff eyes
-bill length same as head
-bill longer than head
-bill shorter than head
-blue forehead
-brown forehead
-iridescent forehead
-purple forehead
-rufous forehead
-grey forehead
-yellow forehead
-olive forehead
-green forehead
-pink forehead
-orange forehead
-black forehead
-white forehead
-red forehead
-buff forehead
-blue under tail
-brown under tail
-iridescent under tail
-purple under tail
-rufous under tail
-grey under tail
-yellow under tail
-olive under tail
-green under tail
-pink under tail
-orange under tail
-black under tail
-white under tail
-red under tail
-buff under tail
-blue nape
-brown nape
-iridescent nape
-purple nape
-rufous nape
-grey nape
-yellow nape
-olive nape
-green nape
-pink nape
-orange nape
-black nape
-white nape
-red nape
-buff nape
-blue belly
-brown belly
-iridescent belly
-purple belly
-rufous belly
-grey belly
-yellow belly
-olive belly
-green belly
-pink belly
-orange belly
-black belly
-white belly
-red belly
-buff belly
-rounded wings
-pointed wings
-broad wings
-tapered wings
-long wings
-large size (16–32 inches)
-small size (5–9 inches)
-very large size (32–72 inches)
-medium size (9–16 inches)
-very small size (3–5 inches)
-upright-perching water-like shape
-chicken-like marsh shape
-long-legged shape
-duck-like shape
-owl-like shape
-gull-like shape
-hummingbird-like shape
-pigeon-like shape
-tree-clinging-like shape
-hawk-like shape
-sandpiper-like shape
-upland-ground-like shape
-swallow-like shape
-perching-like shape
-solid back pattern
-spotted back pattern
-striped back pattern
-multi-colored back pattern
-solid tail pattern
-spotted tail pattern
-striped tail pattern
-multi-colored tail pattern
-solid belly pattern
-spotted belly pattern
-striped belly pattern
-multi-colored belly pattern
-primary color blue
-primary color brown
-primary color iridescent
-primary color purple
-primary color rufous
-primary color grey
-primary color yellow
-primary color olive
-primary color green
-primary color pink
-primary color orange
-primary color black
-primary color white
-primary color red
-primary color buff
-blue legs
-brown legs
-iridescent legs
-purple legs
-rufous legs
-grey legs
-yellow legs
-olive legs
-green legs
-pink legs
-orange legs
-black legs
-white legs
-red legs
-buff legs
-blue bill
-brown bill
-iridescent bill
-purple bill
-rufous bill
-grey bill
-yellow bill
-olive bill
-green bill
-pink bill
-orange bill
-black bill
-white bill
-red bill
-buff bill
-blue crown
-brown crown
-iridescent crown
-purple crown
-rufous crown
-grey crown
-yellow crown
-olive crown
-green crown
-pink crown
-orange crown
-black crown
-white crown
-red crown
-buff crown
-solid wing pattern
-spotted wing pattern
-striped wing pattern
-multi-colored wing pattern
-
-
